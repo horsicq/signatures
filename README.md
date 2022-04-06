@@ -7,3 +7,4 @@ Signatures for crypto scan
 * XELFViewer
 * XMachOViewer
 * XAPKDetector
+* XNTSV
