@@ -8,3 +8,4 @@ Signatures for crypto scan
 * XMachOViewer
 * XAPKDetector
 * XNTSV
+* trkdbg
